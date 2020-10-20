@@ -4,7 +4,7 @@
 The dataset is dervied from publicly available data
 
 ### The dataset
-The dataset contains 124 million estimated retrofit results for all (not corrupt) domestic EPCS in England and Wales. Data are divided into regions labelled similar to "domestic-E06000002-Middlesbrough". Each region dataset contains:
+The dataset contains 124 million estimated retrofit results for all (not corrupt) domestic EPCs in England and Wales. Data are divided into regions labelled similar to "domestic-E06000002-Middlesbrough". Each region dataset contains:
 
 - certificates.csv&emsp;&emsp;# File containing data retrieve from https://opendatacommunities.org/home
 - targets.csv&emsp;&emsp;&emsp;  # The environmental targets also present in the certificates table
