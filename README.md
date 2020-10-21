@@ -1,7 +1,9 @@
 # Part L RdSAP estimator residential retrofit evaluator database interfaces
 
 ### Disclaimer
-The dataset is dervied from publicly available data
+The dataset is dervied from publicly available data which is missing some desirable data, including the RdSAP version behind the existing results. It is intended as entry point for people interested in machine learning in building energy performance.
+
+That said, for estate analysis the models are "significantly better than a guess".
 
 ### The dataset
 The dataset contains 124 million estimated retrofit results for all (not corrupt) domestic EPCs in England and Wales. Data are divided into regions labelled similar to "domestic-E06000002-Middlesbrough". Each region dataset contains:
