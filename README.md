@@ -80,8 +80,8 @@ reDataSet.filterErrors
 ##
 # Get Record
 record    = reDataSet[0]
-# Get Record value
-value     = record["roof-Eff"]
+# Get Record value (Property keys are :symbols not "strings")
+value     = record[:"roof-Eff"]
 ##
 # Iterator
 ##
